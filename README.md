@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FlaviaNHM
-- 👀 I’m interested in fungal RNAseq, fungal systemtics and evolution, soil metagenomics and metabarcoding, Nanopore pipelines
+- 👀 I’m interested in fungal RNAseq, fungal systematics and evolution, soil metagenomics and metabarcoding, Nanopore pipelines
 - 🌱 I’m currently learning Nanopore sequencing
 - 💞️ I’m looking to collaborate on bioinformatics for fungal studies
 - 📫 How to reach me: email: f.pinzari@nhm.ac.uk 
